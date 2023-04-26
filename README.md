@@ -7,5 +7,5 @@ Tambien puedes encontrar en la pagina principal 3 carpetas importantes:
 
 1. DashBoard: Donde encontraras imagenes de las Dashboards para verlas facil
 2. DatosEnCsv: Donde encontratas los datos que use, en formato CSV
-3. Publicidad: Donde hay imagenes de las propuestas de publicidad
+3. ImagenesParaPublicidad: Donde hay imagenes de las propuestas de publicidad
 

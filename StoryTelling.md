@@ -51,3 +51,21 @@ Ademas de expandir, la idea es mejorar, y les alegrara saber que la proxima camp
 
 si se fijan actualmente tenemos mucha gente con una velocidad de bajada lenta, esta gente ya es nuestro cliente, ya nos pagan mes a mes, 
 enfocaremos en e-mail marketing en "puede ser aun mas rapido" y la opcion de aunmentar la velocidad el primer mes gratis, esto estara enfocado a personas de 25 a 35 años que ya tiene nuestro servicio
+  
+  
+  
+  
+  
+# Objetivos Proximo Trimestre
+
+1. Campaña en tv, diarios y radio enfocada al publico de 45 a 80 
+2. e-mail marketin para aunmentar la velocidad de clientes actuales
+3. monitorear todo esto para ver los ROI y CPA
+4. Optimizacion del registro por llamada, para simplificarlo lo mas posible
+5. posicionamiento en San Juan y Santa Cruz
+
+  
+# Investigacion Proximo Trimestre
+
+Un detalle que descubrimos, en algentina el segmento joven (18 a 29) fue quien mas acceso a internet tuvo pero hay algo interesante *silencio dramatico * 13 a 17 años, tienen 94,5% de acceso a internet. Este segmento de poblacion no tiene un sueldo, gran parte de ellos no tienen internet en su casa, y aun así de cada 20,19 consiguen internet. 
+Dedicaremos parte del analisis de este trimestre a averiguar ¿como consiguen internet?¿desde donde entran?¿en que zona hay mas? Con esto esperamos para el proximo trimestre crear otra forma de llegar al grupo **B**

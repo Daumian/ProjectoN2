@@ -56,7 +56,7 @@ enfocaremos en e-mail marketing en "puede ser aun mas rapido" y la opcion de aun
   
   
   
-# Objetivos Proximo Trimestre
+# Objetivos para el Proximo Trimestre
 
 1. Campaña en tv, diarios y radio enfocada al publico de 45 a 80 
 2. e-mail marketin para aunmentar la velocidad de clientes actuales

@@ -9,3 +9,4 @@ Tambien puedes encontrar en la pagina principal 3 carpetas importantes:
 2. DatosEnCsv: Donde encontratas los datos que use, en formato CSV
 3. ImagenesParaPublicidad: Donde hay imagenes de las propuestas de publicidad
 
+Otro archivo es el storytelling, su lectura no es obligatoria, solo es un texto que ayuda a recordar lo que se dira en la presentacion
